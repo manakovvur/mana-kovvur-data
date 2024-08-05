@@ -1,17 +1,17 @@
+
 {
     "MilkdairyData": [
       {
         "id": 1,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719403975/kovvur-icons/workers.jpg",
-        "title": "Aarohi Advanced Beauty Clinic & Makeup Studio",
-        "location": "MilkdairyData",
-        "phoneNumber": "9392060676",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1722839400/kovvur-icons/Services-Main/Surishi_milk_d5ibgx.jpg",
+        "title": "Surishi-The Farm's Milk",
+        "location": "Kovvuru",
+        "phoneNumber": "9100323995",
+        "services": ["1 litre 80/- only", "Cow milk 1 litre 60/- only", "Natural", "Protein rich", "100% Organic", "No Chemicals"],
         "socialLinks": {
           "instagram": "https://www.instagram.com/mana_kovvur_official/",
-          "whatsapp": "https://wa.me/9491344745",
-          "maps": "https://maps.app.goo.gl/ep93rHqhxm6BC2266",
-          "phonecall": "9392060676"
+          "whatsapp": "https://wa.me/9100323995",
+          "phonecall": "9392066847"
         }
       },
       {
