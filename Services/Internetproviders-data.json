@@ -3,53 +3,17 @@
       {
         "id": 1,
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719403975/kovvur-icons/workers.jpg",
-        "title": "Aarohi Advanced Beauty Clinic & Makeup Studio",
-        "location": "InternetProvidersData",
-        "phoneNumber": "9392060676",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "title": "Airtel Sales and Services",
+        "location": "5-9-8, Sankaramatam Street, Kovvur",
+        "phoneNumber": "9289275858",
+        "services": ["Airtel Xstream Fiber Standby plans starting at ₹199/month","Free installation+WIFI Router+TV Channels at 399/-","Check the attached pdf for more offers"],
         "socialLinks": {
-          "instagram": "https://www.instagram.com/mana_kovvur_official/",
-          "whatsapp": "https://wa.me/9491344745",
-          "maps": "https://maps.app.goo.gl/ep93rHqhxm6BC2266",
-          "phonecall": "9392060676",
-          "pdf": "https://drive.google.com/uc?export=download&id=1n8dk49HiQbH_lAEhmi_dXtqD4pageeyr"
+          "instagram": "https://www.instagram.com/vfc_vinnu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+          "whatsapp": "https://wa.me/9289275858",
+          "maps": "https://www.google.com/maps/search/5-9-8,+Sankaramatam+Street+,+Kovvuru,+Kovvur,+Andhra+Pradesh+534350,+India/@17.0208,81.7286,17z?hl=en&entry=ttu",
+          "phonecall": "9289275858",
+          "pdf": "https://drive.google.com/uc?export=download&id=1wZafxAzZH1VcRoPi-tU0YnZKeC7uTmbT"
         }
-      },
-      {
-        "id": 2,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719406952/kovvur-icons/travels.jpg",
-        "title": "Surendra",
-        "location": "B",
-        "phoneNumber": "9491344745",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 3,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719309884/kovvur-icons/events.jpg",
-        "title": "Bhanu",
-        "location": "C",
-        "phoneNumber": "9392060678",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 4,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
-        "title": "Jos Beauty Clinic Ac",
-        "location": "Dhanush",
-        "phoneNumber": "9392060679",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 5,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314720/kovvur-icons/beauty.jpg",
-        "title": "Sowji",
-        "location": "E",
-        "phoneNumber": "9392060680",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
       }
     ]
   }
