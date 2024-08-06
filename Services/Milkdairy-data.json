@@ -13,42 +13,6 @@
           "whatsapp": "https://wa.me/9100323995",
           "phonecall": "9392066847"
         }
-      },
-      {
-        "id": 2,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719406952/kovvur-icons/travels.jpg",
-        "title": "Surendra",
-        "location": "B",
-        "phoneNumber": "9491344745",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 3,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719309884/kovvur-icons/events.jpg",
-        "title": "Bhanu",
-        "location": "C",
-        "phoneNumber": "9392060678",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 4,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
-        "title": "Jos Beauty Clinic Ac",
-        "location": "Dhanush",
-        "phoneNumber": "9392060679",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 5,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314720/kovvur-icons/beauty.jpg",
-        "title": "Sowji",
-        "location": "E",
-        "phoneNumber": "9392060680",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
       }
     ]
   }
