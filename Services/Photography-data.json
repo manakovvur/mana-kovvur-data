@@ -25,9 +25,9 @@
     {
       "id": 2,
       "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1724134421/kovvur-icons/Services-Main/Photography/samson.jpg",
-      "title": "Amma Photography",
+      "title": "SAMSON Photography",
       "location": "Services available both in Andhra Pradesh and Telangana states",
-      "phoneNumber": "8919256714",
+      "phoneNumber": "8333902089",
       "services": [
         "Wedding Photography",
         "Pre-wedding and Post wedding shoots",
@@ -37,11 +37,10 @@
         "All types of Photography and Videography"
       ],
       "socialLinks": {
-        "instagram": "https://www.instagram.com/amma_photography11?utm_source=ig_web_button_share_sheet",
-        "whatsapp": "https://wa.me/8919256714",
-        "maps": "https://maps.app.goo.gl/va6VvLVu2wzmW4WB9",
-        "phonecall": "8919256714",
-        "pdf": "https://drive.google.com/drive/folders/1EcQL8uUCRxDxRIvZpOCjy1VfIA9yo8e0"
+        "instagram": "https://www.instagram.com/_sam_son_photography",
+        "whatsapp": "https://wa.me/8333902089"
+       
+        
       }
     }
   ]
