@@ -1,54 +1,18 @@
 {
-    "BeautyparlorData": [
-      {
-        "id": 1,
+  "BeautyparlorData": [
+    {
+      "id": 1,
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719403975/kovvur-icons/workers.jpg",
-        "title": "Aarohi Advanced Beauty Clinic & Makeup Studio",
-        "location": "BeautyparlorDataBASE",
-        "phoneNumber": "9392060676",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "title": "AAROHI Advanced beauty clinic and Makeup studio(for both Men and Women)",
+        "location": "Near Bhashyam school, Kovvur",
+        "phoneNumber": "9849855186",
+        "services": ["Basic services like: Threading, Waxing, Pedicure, Manicure, facials, Hair spas etc.", "Provides classes for Beauty parlour and Makeup.", "Provides Hair growth treatements.", "Skin care services: Dermatological consultation,Skin treatements, Gold Facial, and Facials.","Makeups: Both Basic and Bridal"],
         "socialLinks": {
-          "instagram": "https://www.instagram.com/mana_kovvur_official/",
-          "whatsapp": "https://wa.me/9491344745",
-          "maps": "https://maps.app.goo.gl/ep93rHqhxm6BC2266",
-          "phonecall": "9392060676"
-        }
-      },
-      {
-        "id": 2,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719406952/kovvur-icons/travels.jpg",
-        "title": "Surendra",
-        "location": "B",
-        "phoneNumber": "9491344745",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 3,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719309884/kovvur-icons/events.jpg",
-        "title": "Bhanu",
-        "location": "C",
-        "phoneNumber": "9392060678",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 4,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
-        "title": "Jos Beauty Clinic Ac",
-        "location": "Dhanush",
-        "phoneNumber": "9392060679",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
-      },
-      {
-        "id": 5,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314720/kovvur-icons/beauty.jpg",
-        "title": "Sowji",
-        "location": "E",
-        "phoneNumber": "9392060680",
-        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
-        "socialLinks": {}
+          "instagram": "https://www.instagram.com/aarohi_advanced_beauty_clinic/",
+          "whatsapp": "https://wa.me/9849855186",
+          "maps": "https://maps.app.goo.gl/nCFoaudEWRSo6jWeA",
+          "phonecall": "8522975589"
       }
-    ]
-  }
+    }
+  ]
+}
