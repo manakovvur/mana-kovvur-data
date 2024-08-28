@@ -42,6 +42,30 @@
        
         
       }
+    },
+    {
+      "id": 3,
+      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1724818822/kovvur-icons/Services-Main/Photography/ravi.jpg",
+      "title": "Raviteja's Photography",
+      "location": "Services available both in Andhra Pradesh and Telangana states",
+      "phoneNumber": "9642333964",
+      "services": [
+        "Wedding Photography",
+        "Candid Photography",
+        "Cinematic Wedding Videography",
+        "Pre/post Wedding Photography",
+        "Maternity Photography",
+        "Birthday Photography",
+        "New Born Baby Photography",
+        "All Types Photography"
+      ],
+      "socialLinks": {
+        "instagram": "https://www.instagram.com/raviteja_photography/",
+        "facebook":"https://www.facebook.com/raviteja567",
+        "whatsapp": "https://wa.me/+919642333964"
+       
+        
+      }
     }
   ]
 }
