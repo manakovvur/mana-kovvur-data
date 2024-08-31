@@ -13,6 +13,20 @@
           "maps": "https://maps.app.goo.gl/gAg8T3nwmD3z5kDi7",
           "phonecall": "9603895511"
         }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725090226/kovvur-icons/Services-Main/Tuitions/om.jpg",
+        "title": "Om Santhi Tution Center",
+        "location": "Kovvur",
+        "phoneNumber": "9121316729",
+        "services": ["VI to X and Intermediate "],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+919121316729",
+          
+          "phonecall": "9121316729"
+        }
       }
     ]
   }
