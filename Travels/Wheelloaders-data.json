@@ -1,1 +1,19 @@
 
+{
+    "WheelloadersData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725368506/kovvur-icons/Services-Main/loadwheels/ramabhanam.jpg",
+        "title": "RAMABANAM CRANE SERVICES",
+        "location": "Kovvur",
+        "phoneNumber": "913312355",
+        "services": ["Earth Movers", "Crane Services", "Lift Installation"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+91913312355",
+         
+          "phonecall": "913312355"
+        }
+      }
+    ]
+  }
