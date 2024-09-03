@@ -1,18 +1,31 @@
 
 {
-  "PaintersData": [
-    {
-      "id": 1,
-      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1723638313/kovvur-icons/workers/Workers-painters/kmanikvr.jpg",
-      "title": "Mani Building Painting Works",
-      "location": "Kovvur",
-      "phoneNumber": "9059999594",
-      "services": ["P.O.P Ceilings - Elevate your space with our specialty.", "Altech Wall Care - Superior protection for your walls.", "Techjai - Innovation in every brushstroke.", "Royal Play - Add a royal touch to your walls.","P.U. Polish - Pristine, polished finishes.","All Painting Works - Bringing your colors to life."],
-      "socialLinks": {
-        "whatsapp": "https://wa.me/+917386699777",
-        "phonecall": "9059999594",
-        "pdf": "https://drive.google.com/drive/folders/1gM9QO_Bn-xIi_K0RYwVBIV-xYOm99zRE"
+    "PaintersData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1723638313/kovvur-icons/workers/Workers-painters/kmanikvr.jpg",
+        "title": "Mani Building Painting Works",
+        "location": "Kovvur",
+        "phoneNumber": "9059999594",
+        "services": ["P.O.P Ceilings - Elevate your space with our specialty.", "Altech Wall Care - Superior protection for your walls.", "Techjai - Innovation in every brushstroke.", "Royal Play - Add a royal touch to your walls.","P.U. Polish - Pristine, polished finishes.","All Painting Works - Bringing your colors to life."],
+        "socialLinks": {
+          "whatsapp": "https://wa.me/+917386699777",
+          "phonecall": "9059999594",
+          "pdf": "https://drive.google.com/drive/folders/1gM9QO_Bn-xIi_K0RYwVBIV-xYOm99zRE"
+        }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1723638313/kovvur-icons/workers/Workers-painters/kmanikvr.jpg",
+        "title": "Building Contractor & Painting Contractor",
+        "location": "Kovvur",
+        "phoneNumber": "9704944759",
+        "services": ["Building Contract A to Z Service", "All Painting Work", "Wall Care", "Royal Play", "Ceiling Design Work"],
+        "socialLinks": {
+          "whatsapp": "https://wa.me/+919704944759",
+          "phonecall": "9704944759"
+          
+        }
       }
-    }
-  ]
-}
+    ]
+  }
