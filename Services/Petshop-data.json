@@ -13,6 +13,21 @@
           
           
         }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725534827/kovvur-icons/Services-Main/Petstore/tails.jpg",
+        "title": "HAPPY TAILS PETS & AQUARIUMS",
+        "location": "Kovvur",
+        "phoneNumber": "7337370979",
+        "services": ["Dogs", "Puppies", "Food", "Accessories", "Dog Boarding", "Stud Service", "Fishes", "Turtiles", "Birds", "Customized Aquariums"],
+        "socialLinks": {
+        "instagram": "https://www.instagram.com/petshop.happytail/",
+        "whatsapp": "https://wa.me/+917337370979",
+        "phonecall": "7337370979"
+          
+          
+        }
       }
     ]
   }
