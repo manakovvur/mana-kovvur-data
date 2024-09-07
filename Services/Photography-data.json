@@ -67,6 +67,26 @@
        
         
       }
+    },
+    {
+      "id": 4,
+      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
+      "title": "Alpha Photography (Pandu Dommeru)",
+      "location": "Services available both in Andhra Pradesh and Telangana states",
+      "phoneNumber": "8978606262",
+      "services": [
+        "Cinematic Weddings",
+        "Candid Photography",
+        "Kids Photography",
+        "Short Film Making & Editing",
+        "Photo frames and Album designing",
+        "Video mixing",
+        "Outdoor shoots, Model shoots, Instagram reel shoots and Add shoots"
+      ],
+      "socialLinks": {
+        "whatsapp": "https://wa.me/+918978606262",
+        "phonecall": "8978606262"
+      }
     }
   ]
 }
