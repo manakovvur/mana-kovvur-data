@@ -1,1 +1,17 @@
-
+{
+    "AccountantData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725270864/kovvur-icons/Accountent.jpg",
+        "title": "SIRI CONSULTANCY(Padala Sri Harsha)",
+        "location": "Satyavathi Nagar, Kovvur",
+        "phoneNumber": "9642274341",
+        "services": ["Pan Cards", "GST registrations and filings", "Accounting works(Tally)","IT Filings","MSME Registrations","DGFT(Import Export Licence) Registrations"],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/happy_harsha_?igsh=Z2g5NjI3dDJpNDZq",
+          "whatsapp": "https://wa.me/+919642274341",
+          "phonecall": "9642274341"
+        }
+      }
+    ]
+  }
