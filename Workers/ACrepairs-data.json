@@ -1,1 +1,22 @@
-
+{
+    "ACrepairsData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725790660/kovvur-icons/workers/AC_Repairs/SS.jpg",
+        "title": "S.S (A.C.& REFRIGERATOR SERVICE CENTRE)",
+        "location": "Near Chinna Venkanna Babu Gudi,kovvur",
+        "phoneNumber": "9347920366",
+        "services": [
+          "Home Service",
+          "We Repair all Brands",
+          "A.C., Refrigeratior, Washing Machine, Etc"
+          
+        ],
+        "socialLinks": {
+          "whatsapp": "https://wa.me/+919347920366",
+          "phonecall": "9347920366"
+          
+        }
+      }
+    ]
+  }
