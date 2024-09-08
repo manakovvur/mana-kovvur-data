@@ -87,6 +87,25 @@
         "whatsapp": "https://wa.me/+918978606262",
         "phonecall": "8978606262"
       }
+    },
+    {
+      "id": 5,
+      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725783367/kovvur-icons/Services-Main/Photography/ITBP_2_qrbqrn.jpg",
+      "title": "Tharun Handi Arts(Tharun jonnakuti)",
+      "location": "Tallapudi",
+      "phoneNumber": "9346377902",
+      "services": [
+        "Pencil Arts",
+        "Colour Pencil Arts",
+        "Blood Arts",
+        "String Arts",
+        "Coffee Arts"
+      ],
+      "socialLinks": {
+        "instagram": "https://www.instagram.com/tharunhandiarts?igsh=MW4zcmc4Ym9rdWZpYw==",
+        "whatsapp": "https://wa.me/+919346377902",
+        "phonecall": "9346377902"
+      }
     }
   ]
 }
