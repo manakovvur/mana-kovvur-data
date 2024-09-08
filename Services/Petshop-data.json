@@ -29,6 +29,19 @@
           
           
         }
+      },
+      {
+        "id": 3,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725795925/kovvur-icons/Services-Main/Petstore/Happy_Paws_11zon_rd247f.jpg",
+        "title": "HAPPY PAWS",
+        "location": "Kovvur",
+        "phoneNumber": "7337226488",
+        "services": ["All puppy breeds available", "All Dogs Pet grooming", "All Dogs stud services", "Vaccinations", "Dog Boarding"],
+        "socialLinks": {
+        "instagram": "https://www.instagram.com/h_a_p_p_y_paws?igsh=MWl3a3A4OXhuY2Vwag==",
+        "whatsapp": "https://wa.me/+917337226488",
+        "phonecall": "7337226488"
+          }
       }
     ]
   }
