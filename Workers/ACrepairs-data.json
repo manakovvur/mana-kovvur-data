@@ -3,13 +3,13 @@
       {
         "id": 1,
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725790660/kovvur-icons/workers/AC_Repairs/SS.jpg",
-        "title": "S.S (AC & REFRIGERATOR SERVICE CENTRE)",
-        "location": "Near Chinna Venkanna Babu Gudi, kovvur",
+        "title": "S.S (A.C.& REFRIGERATOR SERVICE CENTRE)",
+        "location": "Near Chinna Venkanna Babu Gudi,kovvur",
         "phoneNumber": "9347920366",
         "services": [
-          "Home Service Available",
+          "Home Service",
           "We Repair all Brands",
-          "AC, Refrigeratior, Washing Machine, Etc"
+          "A.C., Refrigeratior, Washing Machine, Etc"
           
         ],
         "socialLinks": {
@@ -17,6 +17,29 @@
           "phonecall": "9347920366"
           
         }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725794224/kovvur-icons/workers/AC_Repairs/Nagendra.jpg",
+        "title": "Venkataswara Refrigerator  &  Air Conditioner Service",
+        "location": "kovvur",
+        "phoneNumber": "7416179924",
+        "services": [
+          "All Brand AC Repairs",
+          " AC Water wash",
+          " Installation & Uninstallation",
+          "Washing Machine Repairs",
+          "Refrigerator Services",
+          "A to Z Repair Services"
+
+          
+        ],
+        "socialLinks": {
+          "whatsapp": "https://wa.me/+917416179924",
+          "phonecall": "7416179924"
+          
+        }
       }
+      
     ]
   }
