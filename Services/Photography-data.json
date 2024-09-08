@@ -69,25 +69,27 @@
       }
     },
     {
-      "id": 4,
-      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
-      "title": "Alpha Photography (Pandu Dommeru)",
-      "location": "Services available both in Andhra Pradesh and Telangana states",
-      "phoneNumber": "8978606262",
-      "services": [
-        "Cinematic Weddings",
-        "Candid Photography",
-        "Kids Photography",
-        "Short Film Making & Editing",
-        "Photo frames and Album designing",
-        "Video mixing",
-        "Outdoor shoots, Model shoots, Instagram reel shoots and Add shoots"
-      ],
-      "socialLinks": {
-        "whatsapp": "https://wa.me/+918978606262",
-        "phonecall": "8978606262"
-      }
-    },
+    "id": 4,
+    "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725786591/kovvur-icons/Services-Main/Photography/Alpha_cine_production.jpg",
+    "title": "Alpha Cine Productions",
+    "location": "Services available both in Andhra Pradesh and Telangana states",
+    "phoneNumber": "8978606262",
+    "services": [
+      "Cinematic Weddings",
+      "Candid & Traditional Photography",
+      "Kids Photography",
+      "Photo Frames",
+      "Album Design & Video Mixing",
+      "Short Film Making & Editings",
+      "Add Film Shoots",
+      "Out Door Shoots",
+      "Instagram Reels"
+    ],
+    "socialLinks": {
+      "whatsapp": "https://wa.me/+918978606262",
+      "phonecall": "8978606262"
+    }
+},
     {
       "id": 5,
       "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725786261/kovvur-icons/Services-Main/Photography/TharunHandiArts_smlrxi.jpg",
