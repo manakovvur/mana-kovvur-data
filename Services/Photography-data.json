@@ -110,6 +110,26 @@
         "phonecall": "9346377902",
         "pdf": "https://drive.google.com/drive/folders/1EQsm3ZmZ_L6bZbirI_2h-d_okP_pq3Od"
       }
-    }
+    },
+    {
+        "id": 6,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725858458/kovvur-icons/Services-Main/Photography/Naina_Photoframes.jpg",
+        "title": "Raviteja photoframes",
+        "location": "kovvur",
+        "phoneNumber": "7416733964",
+        "services": [
+          "We provide all types of frames sizes",
+          "Quality frames and fast delivery",
+          "Within 1hour frames will be ready",
+          "6*8 , 8*12 , 10*15 , 10*20 , 12*18 , 18*12 , 12*36 , 16*20 , 16*24 , 20*30 , Etc"
+          
+        ],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/naina_photoframes?igsh=NGVuYjJxNHd2cDE4",
+          "whatsapp": "https://wa.me/+917416733964",
+          "phonecall": "7416733964",
+          "pdf": "https://drive.google.com/drive/folders/1XViwvb8DhZQUPX4NNAA2LNRcI55y7MCE"
+        }
+      }
   ]
 }
