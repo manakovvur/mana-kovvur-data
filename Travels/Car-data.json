@@ -1,1 +1,19 @@
 
+{
+    "carsData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726049736/kovvur-icons/Services-Main/cars/srinivasatravels.jpg",
+        "title": "Srinivasa Travels",
+        "location": "Kovvur",
+        "phoneNumber": "7989586623",
+        "services": ["Self drive 24/7"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+917989586623",
+         
+          "phonecall": "7989586623"
+        }
+      }
+    ]
+  }
