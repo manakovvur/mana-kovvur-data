@@ -1,136 +1,162 @@
 {
-  "PhotographyData": [
-    {
-      "id": 1,
-      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1723104025/kovvur-icons/Services-Main/Photography/amma-photography.jpg",
-      "title": "Amma Photography",
-      "location": "Services available both in Andhra Pradesh and Telangana states",
-      "phoneNumber": "8919256714",
-      "services": [
-        "Wedding Photography",
-        "Pre-wedding and Post wedding shoots",
-        "Kids Photography",
-        "Maternity Shoot",
-        "Fashion or portrait Photography",
-        "All types of Photography and Videography"
-      ],
-      "socialLinks": {
-        "instagram": "https://www.instagram.com/amma_photography11?utm_source=ig_web_button_share_sheet",
-        "whatsapp": "https://wa.me/+918919256714",
-        "maps": "https://maps.app.goo.gl/va6VvLVu2wzmW4WB9",
-        "phonecall": "8919256714",
-        "pdf": "https://drive.google.com/drive/folders/1EcQL8uUCRxDxRIvZpOCjy1VfIA9yo8e0"
-      }
-    },
-    {
-      "id": 2,
-      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1724134421/kovvur-icons/Services-Main/Photography/samson.jpg",
-      "title": "SAMSON Photography",
-      "location": "Services available both in Andhra Pradesh and Telangana states",
-      "phoneNumber": "8333902089",
-      "services": [
-        "Wedding Photography",
-        "Pre-wedding and Post wedding shoots",
-        "Kids Photography",
-        "Maternity Shoot",
-        "Fashion or portrait Photography",
-        "All types of Photography and Videography"
-      ],
-      "socialLinks": {
-        "instagram": "https://www.instagram.com/_sam_son_photography",
-        "whatsapp": "https://wa.me/+918333902089"
-       
-        
-      }
-    },
-    {
-      "id": 3,
-      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1724818822/kovvur-icons/Services-Main/Photography/ravi.jpg",
-      "title": "Raviteja's Photography",
-      "location": "Services available both in Andhra Pradesh and Telangana states",
-      "phoneNumber": "9642333964",
-      "services": [
-        "Wedding Photography",
-        "Candid Photography",
-        "Cinematic Wedding Videography",
-        "Pre/post Wedding Photography",
-        "Maternity Photography",
-        "Birthday Photography",
-        "New Born Baby Photography",
-        "All Types Photography"
-      ],
-      "socialLinks": {
-        "instagram": "https://www.instagram.com/raviteja_photography/",
-        "facebook":"https://www.facebook.com/raviteja567",
-        "whatsapp": "https://wa.me/+919642333964",
-         "pdf": "https://drive.google.com/drive/folders/1iwdq5-6G5US0MWpX1R05TWYB6DD8OhyP"
-       
-        
-      }
-    },
-    {
-    "id": 4,
-    "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725786591/kovvur-icons/Services-Main/Photography/Alpha_cine_production.jpg",
-    "title": "Alpha Cine Productions",
-    "location": "Services available both in Andhra Pradesh and Telangana states",
-    "phoneNumber": "8978606262",
-    "services": [
-      "Cinematic Weddings",
-      "Candid & Traditional Photography",
-      "Kids Photography",
-      "Photo Frames",
-      "Album Design & Video Mixing",
-      "Short Film Making & Editings",
-      "Add Film Shoots",
-      "Out Door Shoots",
-      "Instagram Reels"
-    ],
-    "socialLinks": {
-      "whatsapp": "https://wa.me/+918978606262",
-      "facebook":"https://www.facebook.com/share/KAarVQc67vrq6zPv/?mibextid=LQQJ4d",
-      "pdf": "https://drive.google.com/drive/folders/1iZw801bFYQFTCDNf60tSkhGBpaHCvUwB",
-      "phonecall": "8978606262"
-    }
-},
-    {
-      "id": 5,
-      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725786261/kovvur-icons/Services-Main/Photography/TharunHandiArts_smlrxi.jpg",
-      "title": "Tharun Arts & Crafts Service (Tharun jonnakuti)",
-      "location": "Tallapudi",
-      "phoneNumber": "9346377902",
-      "services": [
-        "Pencil Arts",
-        "Colour Pencil Arts",
-        "Blood Arts",
-        "String Arts",
-        "Coffee Arts"
-      ],
-      "socialLinks": {
-        "instagram": "https://www.instagram.com/tharunhandiarts?igsh=MW4zcmc4Ym9rdWZpYw==",
-        "whatsapp": "https://wa.me/+919346377902",
-        "phonecall": "9346377902",
-        "pdf": "https://drive.google.com/drive/folders/1EQsm3ZmZ_L6bZbirI_2h-d_okP_pq3Od"
-      }
-    },
-    {
-        "id": 6,
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725858458/kovvur-icons/Services-Main/Photography/Naina_Photoframes.jpg",
-        "title": "Raviteja photoframes",
-        "location": "kovvur",
-        "phoneNumber": "7416733964",
+    "PhotographyData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1723104025/kovvur-icons/Services-Main/Photography/amma-photography.jpg",
+        "title": "Amma Photography",
+        "location": "Services available both in Andhra Pradesh and Telangana states",
+        "phoneNumber": "8919256714",
         "services": [
-          "We provide all types of frames sizes",
-          "Quality frames and fast delivery",
-          "Within 1hour frames will be ready",
-          "6*8 , 8*12 , 10*15 , 10*20 , 12*18 , 18*12 , 12*36 , 16*20 , 16*24 , 20*30 , Etc"
-          
+          "Wedding Photography",
+          "Pre-wedding and Post wedding shoots",
+          "Kids Photography",
+          "Maternity Shoot",
+          "Fashion or portrait Photography",
+          "All types of Photography and Videography"
         ],
         "socialLinks": {
-          "instagram": "https://www.instagram.com/naina_photoframes?igsh=NGVuYjJxNHd2cDE4",
-          "whatsapp": "https://wa.me/+917416733964",
-          "phonecall": "7416733964",
-          "pdf": "https://drive.google.com/drive/folders/1XViwvb8DhZQUPX4NNAA2LNRcI55y7MCE"
+          "instagram": "https://www.instagram.com/amma_photography11?utm_source=ig_web_button_share_sheet",
+          "whatsapp": "https://wa.me/+918919256714",
+          "maps": "https://maps.app.goo.gl/va6VvLVu2wzmW4WB9",
+          "phonecall": "8919256714",
+          "pdf": "https://drive.google.com/drive/folders/1EcQL8uUCRxDxRIvZpOCjy1VfIA9yo8e0"
         }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1724134421/kovvur-icons/Services-Main/Photography/samson.jpg",
+        "title": "SAMSON Photography",
+        "location": "Services available both in Andhra Pradesh and Telangana states",
+        "phoneNumber": "8333902089",
+        "services": [
+          "Wedding Photography",
+          "Pre-wedding and Post wedding shoots",
+          "Kids Photography",
+          "Maternity Shoot",
+          "Fashion or portrait Photography",
+          "All types of Photography and Videography"
+        ],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/_sam_son_photography",
+          "whatsapp": "https://wa.me/+918333902089"
+         
+          
+        }
+      },
+      {
+        "id": 3,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1724818822/kovvur-icons/Services-Main/Photography/ravi.jpg",
+        "title": "Raviteja's Photography",
+        "location": "Services available both in Andhra Pradesh and Telangana states",
+        "phoneNumber": "9642333964",
+        "services": [
+          "Wedding Photography",
+          "Candid Photography",
+          "Cinematic Wedding Videography",
+          "Pre/post Wedding Photography",
+          "Maternity Photography",
+          "Birthday Photography",
+          "New Born Baby Photography",
+          "All Types Photography"
+        ],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/raviteja_photography/",
+          "facebook":"https://www.facebook.com/raviteja567",
+          "whatsapp": "https://wa.me/+919642333964",
+           "pdf": "https://drive.google.com/drive/folders/1iwdq5-6G5US0MWpX1R05TWYB6DD8OhyP"
+         
+          
+        }
+      },
+      {
+      "id": 4,
+      "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725786591/kovvur-icons/Services-Main/Photography/Alpha_cine_production.jpg",
+      "title": "Alpha Cine Productions",
+      "location": "Services available both in Andhra Pradesh and Telangana states",
+      "phoneNumber": "8978606262",
+      "services": [
+        "Cinematic Weddings",
+        "Candid & Traditional Photography",
+        "Kids Photography",
+        "Photo Frames",
+        "Album Design & Video Mixing",
+        "Short Film Making & Editings",
+        "Add Film Shoots",
+        "Out Door Shoots",
+        "Instagram Reels"
+      ],
+      "socialLinks": {
+        "whatsapp": "https://wa.me/+918978606262",
+        "facebook":"https://www.facebook.com/share/KAarVQc67vrq6zPv/?mibextid=LQQJ4d",
+        "pdf": "https://drive.google.com/drive/folders/1iZw801bFYQFTCDNf60tSkhGBpaHCvUwB",
+        "phonecall": "8978606262"
       }
-  ]
-}
+  },
+      {
+        "id": 5,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725786261/kovvur-icons/Services-Main/Photography/TharunHandiArts_smlrxi.jpg",
+        "title": "Tharun Arts & Crafts Service (Tharun jonnakuti)",
+        "location": "Tallapudi",
+        "phoneNumber": "9346377902",
+        "services": [
+          "Pencil Arts",
+          "Colour Pencil Arts",
+          "Blood Arts",
+          "String Arts",
+          "Coffee Arts"
+        ],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/tharunhandiarts?igsh=MW4zcmc4Ym9rdWZpYw==",
+          "whatsapp": "https://wa.me/+919346377902",
+          "phonecall": "9346377902",
+          "pdf": "https://drive.google.com/drive/folders/1EQsm3ZmZ_L6bZbirI_2h-d_okP_pq3Od"
+        }
+      },
+      {
+          "id": 6,
+          "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1725858458/kovvur-icons/Services-Main/Photography/Naina_Photoframes.jpg",
+          "title": "Raviteja photoframes",
+          "location": "kovvur",
+          "phoneNumber": "7416733964",
+          "services": [
+            "We provide all types of frames sizes",
+            "Quality frames and fast delivery",
+            "Within 1hour frames will be ready",
+            "6*8 , 8*12 , 10*15 , 10*20 , 12*18 , 18*12 , 12*36 , 16*20 , 16*24 , 20*30 , Etc"
+            
+          ],
+          "socialLinks": {
+            "instagram": "https://www.instagram.com/naina_photoframes?igsh=NGVuYjJxNHd2cDE4",
+            "whatsapp": "https://wa.me/+917416733964",
+            "phonecall": "7416733964",
+            "pdf": "https://drive.google.com/drive/folders/1XViwvb8DhZQUPX4NNAA2LNRcI55y7MCE"
+          }
+        },
+       {
+          "id": 7,
+          "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726047957/kovvur-icons/Services-Main/Photography/clicksbyvj.jpg",
+          "title": "Clicks By VJ",
+          "location": "Dommeru",
+          "phoneNumber": "8919522448",
+          "services": [
+            "Cinematic Weddings",
+            "Candid & Traditional Photography",
+            "Pre-wedding and Post wedding shoots",
+            "Kids Photography",
+            "Maternity Shoot",
+            "Fashion or portrait Photography",
+            "Instagram Reels",
+            "Out Door Shoots",
+            "Birthday Photography Reels",
+            "All Types Photography"
+            
+          ],
+          "socialLinks": {
+            "instagram": "https://www.instagram.com/clicks_by_vj/?hl=en#",
+            "whatsapp": "https://wa.me/+918919522448",
+            "phonecall": "8919522448"
+          }
+        }
+    ]
+  }
+  
