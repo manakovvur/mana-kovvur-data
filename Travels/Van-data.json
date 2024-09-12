@@ -1,1 +1,23 @@
 
+
+{
+    "VanData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726131717/kovvur-icons/Services-Main/vanservices/packersandmovers.jpg",
+        "title": "KGN TRANSPORTS",
+        "location": "Kovvur",
+        "phoneNumber": "9121493771",
+        "services": ["All Types Of Loading Services Available",
+                     "Any Transports Available",
+                     "Packing And Movers"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+919121493771",
+         
+          "phonecall": "9121493771"
+        }
+      }
+    ]
+  }
+
