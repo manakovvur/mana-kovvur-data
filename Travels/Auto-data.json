@@ -1,1 +1,19 @@
 
+{
+    "AutosData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726150486/kovvur-icons/Services-Main/autos/auto.jpg",
+        "title": "Banda Srinivas Rao",
+        "location": "Kovvur",
+        "phoneNumber": "9030220943",
+        "services": ["Opting Driver For Car, Auto & Van"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+919989387381",
+         
+          "phonecall": "9030220943"
+        }
+      }
+    ]
+  }
