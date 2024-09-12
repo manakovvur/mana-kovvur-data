@@ -14,6 +14,22 @@
          
           "phonecall": "7989586623"
         }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726157460/kovvur-icons/Services-Main/cars/kgntravels.jpg",
+        "title": "KGN Travels",
+        "location": "Kovvur",
+        "phoneNumber": "9948642282",
+        "services": ["Pickup And Dropping",
+                     "Self Drive Available"  
+        ],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+919948642282",
+         
+          "phonecall": "9948642282"
+        }
       }
     ]
   }
