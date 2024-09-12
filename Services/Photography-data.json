@@ -157,7 +157,28 @@
             "phonecall": "8919522448",
               "pdf": "https://drive.google.com/drive/folders/1aFX-mTTjcJ09rdjUm7RBk8LLf-CPiW4z"
           }
-        }
+        },
+        {
+           "id": 8,
+           "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726133337/kovvur-icons/Services-Main/Photography/anjinaidudesigns.jpg",
+           "title": "Anji Naidu Designs",
+           "location": "Kovvur",
+           "phoneNumber": "9908785199",
+           "services": [
+             "Photo Frames",
+             "Designing Printing",
+             "Flex Printing & Designing", 
+             "Digital Oilpainting",
+             "Photo Restore",
+             "Door Delivery Available "
+             
+           ],
+           "socialLinks": {
+             "instagram": "https://www.instagram.com/anjinaidudesigns/",
+             "whatsapp": "https://wa.me/+919908785199",
+             "phonecall": "9908785199"
+           }
+         }
     ]
   }
   
