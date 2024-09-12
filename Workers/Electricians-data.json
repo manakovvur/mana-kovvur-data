@@ -1,1 +1,21 @@
-
+{
+    "ElectriciansData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726130412/kovvur-icons/workers/electricians/srikrishnaelectricalworks.jpg",
+        "title": "SRI KRISHNA ELECTRICAL WORKS",
+        "location": "Kovvur",
+        "phoneNumber": "6309645133",
+        "services": [
+          "All Types Of Wiring Building Works Ceiling Lights Profile Lighting"
+           
+        ],
+        "socialLinks": {
+          "whatsapp": "https://wa.me/+916309645133",
+          "phonecall": "6309645133"
+          
+        }
+      }
+      
+    ]
+  }
