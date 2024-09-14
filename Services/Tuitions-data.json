@@ -27,6 +27,19 @@
           "maps": "https://maps.app.goo.gl/iP9a2dryDDNqdzx17",
           "phonecall": "9121316729"
         }
+      },
+      {
+        "id": 3,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726296428/kovvur-icons/Services-Main/Tuitions/onlinetuitions.jpg",
+        "title": "Online Tution",
+        "location": "Kovvur",
+        "phoneNumber": "8985014863",
+        "services": ["Online Tuitions"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+918985014863",
+          "phonecall": "8985014863"
+        }
       }
     ]
   }
