@@ -34,7 +34,13 @@
         "title": "Online Tution",
         "location": "Kovvur",
         "phoneNumber": "8985014863",
-        "services": ["Online Tuitions"],
+        "services": ["Online Training Services (Excel)",
+                     "Basics",
+                     "Advanced Formulas",
+                     "Shortcuts", 
+                     "Realtime Example Scenarios",
+                     "A Mini project Before Course Completion"
+        ],
         "socialLinks": {
          
           "whatsapp": "https://wa.me/+918985014863",
