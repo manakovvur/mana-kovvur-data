@@ -1,1 +1,18 @@
-
+{
+    "WeldingworksData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726905295/kovvur-icons/Services-Main/welding/welding.jpg",
+        "title": "Welding & Fabrication Works",
+        "location": "kovvur ",
+        "phoneNumber": "7993996924",
+        "services": ["Welding Works"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+917993996924",
+         
+          "phonecall": "7993996924"
+        }
+      }
+    ]
+  }
