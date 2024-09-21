@@ -30,6 +30,22 @@
          
           "phonecall": "9948642282"
         }
+      },
+      {
+        "id": 3,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726906992/kovvur-icons/Services-Main/cars/gayatritravels.jpg",
+        "title": "Sri Gayatri Travels ",
+        "location": "Kovvur",
+        "phoneNumber": "8374148157",
+        "services": ["24hr services",
+                     "no-self driving"  
+        ],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+918374148157",
+         
+          "phonecall": "8374148157"
+        }
       }
     ]
   }
