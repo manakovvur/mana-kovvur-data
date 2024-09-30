@@ -12,6 +12,17 @@
           "whatsapp": "https://wa.me/+919642274341",
           "phonecall": "9642274341"
         }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1727688379/kovvur-icons/Services-Main/accountant/gst.jpg",
+        "title": "INCOME TAX CONSULTANCY (Venkatesh yadav Associates)",
+        "location": "Kovvur",
+        "phoneNumber": "9281123459",
+        "services": ["I.T Returns", "Firm Registrations", "GST Registrations","All Other Tax Related Matters","Process All Types Of Bank Loans"],
+        "socialLinks": {
+          "phonecall": "9281123459"
+        }
       }
     ]
   }
