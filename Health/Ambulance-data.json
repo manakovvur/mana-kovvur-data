@@ -1,1 +1,20 @@
 
+{
+    "AmbulanceData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1727877277/kovvur-icons/Services-Main/ambulance/ambulanceandfreezer.jpg",
+        "title": "Ambulance and Frezeer",
+        "location": "Kovvur",
+        "phoneNumber": "9866247887",
+        "services": ["Ambulance and Frezeer"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+919866247887",
+         
+          "phonecall": "9866247887"
+        }
+      }
+    ]
+  }
+  
