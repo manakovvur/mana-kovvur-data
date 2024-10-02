@@ -1,1 +1,28 @@
 
+{
+    "BloodTestData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1727873739/kovvur-icons/Services-Main/bloodtestcenters/karthikeyadiagnosticlaboratory.jpg",
+        "title": "Karthikeya Diagnostic Laboratory",
+        "location": "Kovvur",
+        "phoneNumber": "9494889777",
+        "services": ["Started In 2007",
+                     "Since 15 Years",
+                     "Well Trained Qualified Techinicians",
+                     "Timinigs - 6A.M to 8P.M",
+                     "All Type Of Blood Test And Urine Stool Semen",
+                     "All Hormonal Tets Like Thyriod, hba1c, Dengue, Carona Complete Medical Tests For Foreigners",
+                     "well Known In Kovvur",
+                     "All major Hospitals In Rajahmundry Accept Our Test Reports"
+                ],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+918096077779",
+         
+          "phonecall": "9494889777"
+        }
+      }
+    ]
+  }
+  
