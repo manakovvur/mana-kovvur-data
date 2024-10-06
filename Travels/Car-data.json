@@ -46,6 +46,21 @@
          
           "phonecall": "8374148157"
         }
+      },
+      {
+        "id": 4,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1728206037/kovvur-icons/Services-Main/cars/bunnytravels.jpg",
+        "title": "Bunny Travels ",
+        "location": "Kovvur",
+        "phoneNumber": "8374293221",
+        "services": ["no-self driving"  
+        ],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/bhargav_h_244",
+          "whatsapp": "https://wa.me/+918374293221",
+         
+          "phonecall": "8374293221"
+        }
       }
     ]
   }
