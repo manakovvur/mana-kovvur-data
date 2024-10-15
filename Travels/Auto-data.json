@@ -15,6 +15,21 @@
          
           "phonecall": "9030220943"
         }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1728968043/kovvur-icons/Services-Main/autos/sreenigopisettiauto.jpg",
+        "title": "All Vehicles Driving Available",
+        "location": "Kovvur",
+        "phoneNumber": "9849756450",
+        "services": ["Auto Driver",
+                     "Opting Driver For Car & Van"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+919494486350",
+         
+          "phonecall": "9849756450"
+        }
       }
     ]
   }
