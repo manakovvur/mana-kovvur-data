@@ -1,1 +1,19 @@
 
+{
+    "BusData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719577421/kovvur-icons/travels-icons/Untitled_design_1__11zon_bathsg.jpg",
+        "title": "Venkat Satya Travels",
+        "location": "Kovvur",
+        "phoneNumber": "9985535185",
+        "services": ["Travels", "Rental Vehicles", "Car", "Mini Bus"],
+        "socialLinks": {
+         
+          "whatsapp": "https://wa.me/+919985535185",
+         
+          "phonecall": "9985535185"
+        }
+      }
+    ]
+  }
